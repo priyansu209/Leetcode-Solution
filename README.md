@@ -19,6 +19,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,8 +39,21 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0039-combination-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
