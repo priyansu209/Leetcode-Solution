@@ -24,6 +24,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
+| [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +62,8 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
