@@ -34,6 +34,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0394-decode-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0394-decode-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyansu209/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Binary Search
 |  |
 | ------- |
