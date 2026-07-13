@@ -29,6 +29,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/priyansu209/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyansu209/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
@@ -116,4 +118,8 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
