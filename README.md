@@ -11,6 +11,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
@@ -68,6 +70,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
