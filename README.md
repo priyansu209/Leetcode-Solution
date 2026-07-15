@@ -13,6 +13,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/priyansu209/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0200-number-of-islands](https://github.com/priyansu209/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/priyansu209/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/priyansu209/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
