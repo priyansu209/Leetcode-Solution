@@ -14,6 +14,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/priyansu209/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
+| [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
@@ -121,6 +123,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
