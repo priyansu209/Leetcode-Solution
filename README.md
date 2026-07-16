@@ -14,6 +14,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/priyansu209/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
@@ -32,6 +33,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -57,6 +59,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/priyansu209/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/priyansu209/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -69,6 +72,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyansu209/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
@@ -123,6 +127,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
