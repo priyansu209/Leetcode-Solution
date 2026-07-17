@@ -128,6 +128,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/priyansu209/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
@@ -141,4 +142,8 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/priyansu209/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
