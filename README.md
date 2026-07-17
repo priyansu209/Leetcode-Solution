@@ -78,6 +78,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0441-arranging-coins](https://github.com/priyansu209/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -129,6 +130,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyansu209/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/priyansu209/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
