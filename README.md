@@ -23,6 +23,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Recursion
@@ -110,6 +111,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/priyansu209/Leetcode-Solution/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -163,9 +165,11 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
