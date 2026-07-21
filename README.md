@@ -21,6 +21,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Recursion
@@ -106,6 +107,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/priyansu209/Leetcode-Solution/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -154,4 +156,12 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/priyansu209/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
