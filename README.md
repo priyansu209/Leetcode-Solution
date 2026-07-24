@@ -62,6 +62,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0018-4sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/priyansu209/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -97,6 +98,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
 ## Game Theory
@@ -189,4 +191,8 @@ Solving Coding Question to to be better than Yesterday!
 | [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
