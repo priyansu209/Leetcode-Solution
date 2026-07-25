@@ -1,31 +1,18 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int count=0;
+         int insert_pos=0;
 
-        for(int n:nums){
-            if(n==0){
-                count++;
+         for(int i=0;i<nums.length;i++){
+            if(nums[i]!=0){
+                nums[insert_pos]=nums[i];
+                insert_pos++;
             }
-        }
+         }
 
-        ArrayList<Integer> nonZero=new ArrayList<>();
-
-        for(int n: nums){
-            if(n!=0){
-                nonZero.add(n);
-            }
-        }
-        int n= nonZero.size();
-        int last=0;
-        for(int i=0;i<n;i++){
-            nums[i]=nonZero.get(i);
-            last=i;
-        }
-
-
-        for(int j=last+1;j<nums.length;j++){
-            nums[j]=0;
-        }
-        
+         while(insert_pos<nums.length){
+            nums[insert_pos]=0;
+            insert_pos++;
+         }
+         
     }
 }
