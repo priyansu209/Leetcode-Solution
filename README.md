@@ -20,6 +20,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0541-reverse-string-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [0696-count-binary-substrings](https://github.com/priyansu209/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0394-decode-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/priyansu209/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/priyansu209/Leetcode-Solution/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Backtracking
