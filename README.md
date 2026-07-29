@@ -38,6 +38,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -65,6 +66,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
