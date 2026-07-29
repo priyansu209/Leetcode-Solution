@@ -6,11 +6,13 @@ Solving Coding Question to to be better than Yesterday!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0189-rotate-array) |
