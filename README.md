@@ -24,6 +24,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/priyansu209/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/priyansu209/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0541-reverse-string-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/priyansu209/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/priyansu209/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/priyansu209/Leetcode-Solution/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Backtracking
@@ -83,6 +85,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/priyansu209/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0821-shortest-distance-to-a-character](https://github.com/priyansu209/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
