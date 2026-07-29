@@ -11,6 +11,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0018-4sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
@@ -68,6 +69,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0001-two-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
