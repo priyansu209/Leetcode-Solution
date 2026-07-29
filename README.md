@@ -8,6 +8,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/priyansu209/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/priyansu209/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
+| [0876-middle-of-the-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
