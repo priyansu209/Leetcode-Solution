@@ -26,6 +26,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0633-sum-of-square-numbers](https://github.com/priyansu209/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/priyansu209/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/priyansu209/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyansu209/Leetcode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
@@ -90,6 +91,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/priyansu209/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/priyansu209/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -162,6 +164,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/priyansu209/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/priyansu209/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
@@ -230,4 +233,12 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
