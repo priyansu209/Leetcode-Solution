@@ -111,6 +111,7 @@ Solving Coding Question to to be better than Yesterday!
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyansu209/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3206-alternating-groups-i](https://github.com/priyansu209/Leetcode-Solution/tree/master/3206-alternating-groups-i) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyansu209/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3206-alternating-groups-i](https://github.com/priyansu209/Leetcode-Solution/tree/master/3206-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |
