@@ -55,6 +55,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/priyansu209/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyansu209/Leetcode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -96,6 +97,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0283-move-zeroes](https://github.com/priyansu209/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
+| [0594-longest-harmonious-subsequence](https://github.com/priyansu209/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/priyansu209/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/priyansu209/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
@@ -115,6 +117,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0018-4sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/priyansu209/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyansu209/Leetcode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyansu209/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -180,6 +183,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/priyansu209/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/priyansu209/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/priyansu209/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -200,6 +204,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/priyansu209/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String Matching
 |  |
