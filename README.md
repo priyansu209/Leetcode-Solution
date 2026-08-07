@@ -65,6 +65,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -90,6 +91,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0179-largest-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/priyansu209/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -117,6 +119,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0018-4sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0179-largest-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/priyansu209/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -257,4 +260,8 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
