@@ -30,6 +30,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/priyansu209/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/priyansu209/Leetcode-Solution/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/priyansu209/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/priyansu209/Leetcode-Solution/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyansu209/Leetcode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -76,6 +77,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0696-count-binary-substrings](https://github.com/priyansu209/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/priyansu209/Leetcode-Solution/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/priyansu209/Leetcode-Solution/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/priyansu209/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/priyansu209/Leetcode-Solution/tree/master/1332-remove-palindromic-subsequences) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/priyansu209/Leetcode-Solution/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -112,6 +114,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/priyansu209/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [0942-di-string-match](https://github.com/priyansu209/Leetcode-Solution/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/priyansu209/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
@@ -275,6 +278,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0316-remove-duplicate-letters](https://github.com/priyansu209/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/priyansu209/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/priyansu209/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/priyansu209/Leetcode-Solution/tree/master/0942-di-string-match) |
 ## Monotonic Stack
 |  |
 | ------- |
