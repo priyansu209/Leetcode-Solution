@@ -118,6 +118,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0977-squares-of-a-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/priyansu209/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/priyansu209/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyansu209/Leetcode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -279,6 +280,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0409-longest-palindrome](https://github.com/priyansu209/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/priyansu209/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/priyansu209/Leetcode-Solution/tree/master/0942-di-string-match) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
