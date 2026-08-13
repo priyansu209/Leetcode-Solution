@@ -95,6 +95,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/priyansu209/Leetcode-Solution/tree/master/0134-gas-station) |
@@ -139,6 +140,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/priyansu209/Leetcode-Solution/tree/master/0441-arranging-coins) |
@@ -190,6 +192,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/priyansu209/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/priyansu209/Leetcode-Solution/tree/master/0994-rotting-oranges) |
