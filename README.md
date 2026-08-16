@@ -100,6 +100,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0048-rotate-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/priyansu209/Leetcode-Solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/priyansu209/Leetcode-Solution/tree/master/0189-rotate-array) |
@@ -243,6 +244,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0100-same-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
@@ -253,6 +255,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0100-same-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyansu209/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
@@ -260,6 +263,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -295,4 +299,8 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/priyansu209/Leetcode-Solution/tree/master/0561-array-partition) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
