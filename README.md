@@ -159,6 +159,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0397-integer-replacement](https://github.com/priyansu209/Leetcode-Solution/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/priyansu209/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/priyansu209/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -278,6 +279,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/priyansu209/Leetcode-Solution/tree/master/0397-integer-replacement) |
 | [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -289,6 +291,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0134-gas-station](https://github.com/priyansu209/Leetcode-Solution/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/priyansu209/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/priyansu209/Leetcode-Solution/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/priyansu209/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/priyansu209/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/priyansu209/Leetcode-Solution/tree/master/0942-di-string-match) |
@@ -305,4 +308,8 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/priyansu209/Leetcode-Solution/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
