@@ -326,4 +326,8 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/priyansu209/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/priyansu209/Leetcode-Solution/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
