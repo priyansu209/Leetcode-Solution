@@ -109,6 +109,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0048-rotate-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/priyansu209/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/priyansu209/Leetcode-Solution/tree/master/0134-gas-station) |
@@ -211,6 +212,7 @@ Solving Coding Question to to be better than Yesterday!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/priyansu209/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/priyansu209/Leetcode-Solution/tree/master/0994-rotting-oranges) |
@@ -297,6 +299,7 @@ Solving Coding Question to to be better than Yesterday!
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
