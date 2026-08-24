@@ -60,6 +60,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0001-two-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/priyansu209/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/priyansu209/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -75,6 +76,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0013-roman-to-integer](https://github.com/priyansu209/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/priyansu209/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/priyansu209/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/priyansu209/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0179-largest-number) |
@@ -105,6 +107,7 @@ Solving Coding Question to to be better than Yesterday!
 | [0039-combination-sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/priyansu209/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/priyansu209/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/priyansu209/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyansu209/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -141,6 +144,7 @@ Solving Coding Question to to be better than Yesterday!
 | ------- |
 | [0018-4sum](https://github.com/priyansu209/Leetcode-Solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/priyansu209/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/priyansu209/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyansu209/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/priyansu209/Leetcode-Solution/tree/master/0561-array-partition) |
